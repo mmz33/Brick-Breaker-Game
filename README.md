@@ -1,5 +1,3 @@
 # Brick-Breaker-Game
 
-Simple Brick Breaker Game done using Processing.
-
-You must install Processing to play.
+A game in which the player controls a paddle that is used to bounce a ball that breaks blocks. It is implemented using Processing and it was part of a 1st year university project.
